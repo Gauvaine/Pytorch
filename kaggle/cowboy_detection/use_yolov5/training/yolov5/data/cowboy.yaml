@@ -1,0 +1,4 @@
+train: /Users/gauvain/Desktop/github/Pytorch/kaggle-competition/cowboy_detection/use_yolov5/training/cowboy/images/train/
+val: /Users/gauvain/Desktop/github/Pytorch/kaggle-competition/cowboy_detection/use_yolov5/training/cowboy/images/valid/
+names: [belt, sunglasses, boot, cowboy_hat, jacket]
+nc: 5
